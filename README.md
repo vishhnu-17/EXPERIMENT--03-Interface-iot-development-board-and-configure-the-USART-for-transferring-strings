@@ -90,7 +90,7 @@ UART transmits and receives data asynchronously, meaning there is no shared cloc
 
 
 ## STM 32 CUBE PROGRAM :
-```
+```c
 #include "string.h"
 #include "main.h"
 #include <stdio.h>
