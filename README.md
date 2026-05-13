@@ -113,7 +113,7 @@ while (1)
   HAL_Delay(5000);
   }
 }
-
+```
 
 ## Output screen shots of Serial port utility   :
  <img width="1002" height="814" alt="WhatsApp Image 2026-05-13 at 9 33 40 AM" src="https://github.com/user-attachments/assets/1c2cbc24-2480-4460-a8be-0d24e09265cc" />
