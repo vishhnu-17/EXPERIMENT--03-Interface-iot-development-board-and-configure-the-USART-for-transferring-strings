@@ -109,7 +109,7 @@ int main(void)
   MX_USART2_UART_Init();
 while (1)
   {
-  printf("Vishnu");
+  printf("kurapati vishnu vardhan reddy");
   HAL_Delay(5000);
   }
 }
