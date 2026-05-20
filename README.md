@@ -142,6 +142,11 @@ if (HAL_UART_Init(&huart2) != HAL_OK)
   {
     Error_Handler();
   }
+
+static void MX_GPIO_Init(void)
+{
+  __HAL_RCC_GPIOA_CLK_ENABLE();
+}
 ```
 
 ## Output screen shots of Serial port utility   :
